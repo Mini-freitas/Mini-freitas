@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Sou técnico em informática para internet<br>desenvolvo paginas web, tanto back-end quanto front-end<br>Já trabalhei como design<br>Estou a procuro de trabalhos nessas áreas
+Sou técnico em informática para internet<br>desenvolvo paginas web, tanto back-end quanto front-end<br>Já trabalhei como design<br>Estou a procura de trabalhos nessas áreas
 
 
 ## 🌐 Socials:
